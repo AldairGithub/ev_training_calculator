@@ -1,0 +1,18 @@
+.increments-container {
+  width: 300px;
+  margin: 0 auto;
+  background-color: #519872;
+  margin-top: 15px;
+}
+.increments-section {
+  padding: 9px;
+  text-align: center;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  justify-content: center;
+}
+.increments-text {
+  padding: 9px;
+  width: 180px;
+}
