@@ -1,0 +1,30 @@
+.consumables-container {
+  width: 300px;
+  margin: 0 auto;
+  border: 3px;
+  background-color: #519872;
+  margin-top: 15px;
+}
+.consumable-container {
+  text-align: center;
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.consumable-input {
+  background-color: transparent;
+  border: none;
+}
+.consumable-input:focus {
+  outline: none;
+}
+.consumable-text {
+  width: 100px;
+}
+.consumable-buttons {
+  padding: 9px;
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+}
