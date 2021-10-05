@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ev_training_calculator/static/css/main.0a096927.chunk.css",
+    "main.js": "/ev_training_calculator/static/js/main.6b3d35e3.chunk.js",
+    "main.js.map": "/ev_training_calculator/static/js/main.6b3d35e3.chunk.js.map",
+    "runtime-main.js": "/ev_training_calculator/static/js/runtime-main.027f72fb.js",
+    "runtime-main.js.map": "/ev_training_calculator/static/js/runtime-main.027f72fb.js.map",
+    "static/js/2.cfadbc7f.chunk.js": "/ev_training_calculator/static/js/2.cfadbc7f.chunk.js",
+    "static/js/2.cfadbc7f.chunk.js.map": "/ev_training_calculator/static/js/2.cfadbc7f.chunk.js.map",
+    "static/js/3.fc7d13ff.chunk.js": "/ev_training_calculator/static/js/3.fc7d13ff.chunk.js",
+    "static/js/3.fc7d13ff.chunk.js.map": "/ev_training_calculator/static/js/3.fc7d13ff.chunk.js.map",
+    "index.html": "/ev_training_calculator/index.html",
+    "static/css/main.0a096927.chunk.css.map": "/ev_training_calculator/static/css/main.0a096927.chunk.css.map",
+    "static/js/2.cfadbc7f.chunk.js.LICENSE.txt": "/ev_training_calculator/static/js/2.cfadbc7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.027f72fb.js",
+    "static/js/2.cfadbc7f.chunk.js",
+    "static/css/main.0a096927.chunk.css",
+    "static/js/main.6b3d35e3.chunk.js"
+  ]
+}
